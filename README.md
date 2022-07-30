@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amashigeo. \\
 I do not know much about programming and only use IDL and Matlab for data processing currently.\\
-My codes mostly can only apply on my data and are useless for others.
+Most of my codes can only apply on my data and are useless for others.
 - 👀 I’m interested in novel writing.
 - 🌱 I’m currently learning: maybe nothing.
 - 💞️ I’m looking to collaborate on: nothing now.
